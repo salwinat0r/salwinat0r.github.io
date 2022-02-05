@@ -1,6 +1,6 @@
 ---
 title: "What I'm doing now"
-draft: true
+draft: false
 type: now
 url: "/now"
 ---

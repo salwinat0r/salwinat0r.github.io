@@ -1,6 +1,6 @@
 ---
 title: "Notes"
-draft: true
+draft: false
 type: notes
 url: "/notes"
 ---

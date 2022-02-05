@@ -1,6 +1,6 @@
 ---
 title: "Hi! I'm Salwyn 👋"
-draft: true
+draft: false
 url: "/about"
 ---
 {{< figure src="/img/pfp3.jpg" alt="Salwyn13" position="center" style="border-radius: 8px;" caption="Salwyn Mathew" captionPosition="center" captionStyle="color: white;" >}}
