@@ -1,3 +1,118 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "https://salwinat0r.github.io/"
+
+languageCode = "en-us"
+
+theme = "hugo-ink"
+
+paginate = 5
+
+  
+
+[params]
+
+ # dir name of your blog content (default is `content/posts`).
+
+ # the list of set content will show up on your index page (baseurl).
+
+ contentTypeName = "posts"
+ featherIconsCDN = true
+ disableDisqusTypes = ["page"]
+
+  
+
+ # "light" or "dark"
+
+ mode = "auto"
+
+
+[languages]
+
+ [languages.en]
+
+ title = "Salwyn Mathew"
+ subtitle = "ML developer / Tinkerer / Absurdist"
+ writtenBy = "Written by"
+ readMore = "Read more"
+ readOtherPosts = "Read other posts"
+ newerPosts = "Newer posts"
+ olderPosts = "Older posts"
+ minuteReadingTime = "min read"
+ dateFormatSingle = "2006-01-02"
+ dateFormatList = "2006-01-02"
+
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "ink-demo"
+  
+
+ [languages.en.params.logo]
+ logoHomeLink = "/"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/knadh/hugo-ink"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/salwinator_"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "google.com"
+
+
+[taxonomies]
+   tag = "tags"
+
+
+ [languages.en.menu]
+
+ [[languages.en.menu.main]]
+
+ identifier = "about"
+
+ name = "About"
+
+ url = "/about"
+
+ [[languages.en.menu.main]]
+
+ identifier = "notes"
+
+ name = "Notes"
+
+ url = "/notes"
+
+ [[languages.en.menu.main]]
+
+ identifier = "now"
+
+ name = "Now"
+
+ url = "/now"
