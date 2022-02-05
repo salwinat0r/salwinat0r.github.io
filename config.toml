@@ -55,7 +55,7 @@ disqusShortname = "ink-demo"
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/knadh/hugo-ink"
+url = "https://github.com/salwinat0r"
 
 [[params.social]]
 name = "Twitter"
@@ -65,7 +65,7 @@ url = "https://twitter.com/salwinator_"
 [[params.social]]
 name = "LinkedIn"
 icon = "linkedin"
-url = "google.com"
+url = "https://www.linkedin.com/in/salwyn-mathew-4579381b7/"
 
 
 [taxonomies]
