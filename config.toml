@@ -16,7 +16,7 @@ paginate = 5
 
  contentTypeName = "posts"
  featherIconsCDN = true
- disableDisqusTypes = ["page"]
+ disableDisqusTypes = ["now", "about", "now"]
 
   
 
