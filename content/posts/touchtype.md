@@ -1,6 +1,6 @@
 ---
 title: "The Hitchhiker's guide to touch typing"
-date: 2022-02-05T11:45:19+05:30
+date: 2021-11-25T11:45:19+05:30
 description: "Tips on how to go from complete noob to Godspeed touchtyper ⚡"
 draft: false
 ---
