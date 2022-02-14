@@ -1,5 +1,5 @@
 ---
-title: "Opportunist"
+title: "Inside the mind of an Opportunist"
 date: 2022-02-14T21:53:49+05:30
 draft: false
 ---
